@@ -77,9 +77,9 @@ npm install
 
 ```env
 DB_SERVER=localhost
-DB_DATABASE=haonter_erp_db
-DB_USER=sa
-DB_PASSWORD=admin123
+DB_DATABASE=tu_base_de_datos
+DB_USER=tu_usuario
+DB_PASSWORD=clave_de_base_de_datos
 DB_PORT=1433
 SERVER_PORT=7000
 ```
